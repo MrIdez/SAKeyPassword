@@ -72,7 +72,7 @@ SAKey is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Author
 
-SAKey is developed and maintained by Yanis Chiouar. You can reach out to the author at yanis.chiouar@gmail.com.
+SAKey is developed and maintained by [Yanis Chiouar](https://github.com/ycbkaii/) and [Guillaume Baron](https://github.com/MRidez).
 
 ## Version
 
