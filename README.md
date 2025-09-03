@@ -60,11 +60,11 @@ Once logged in, you can perform the following actions:
 
 ### Encryption
 
-SAKey uses AES-128 encryption to encrypt and decrypt the stored passwords. The encryption key is derived from your nickname and password.
+SAKey uses AES-256-CBC encryption to encrypt and decrypt the stored passwords. The encryption key is derived from your nickname and password.
 
 ## Contributing
 
-Contributions to SAKey are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/yourusername/SAKey).
+Contributions to SAKey are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/ycbkaii/SAKeyPassword).
 
 ## License
 
@@ -76,4 +76,9 @@ SAKey is developed and maintained by [Yanis Chiouar](https://github.com/ycbkaii/
 
 ## Version
 
-Current version: 1.0
+Current version: 1.1
+
+## Patch notes V1.1
+
+- New Encryption : **AES-256-CBC**
+- Check the integrity of stored data with the **hmac method**
